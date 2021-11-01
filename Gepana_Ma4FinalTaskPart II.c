@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main ()
 {
-    int n, ans;
+    int n;
     printf("Input any positive integer: ");
     scanf("%d", &n);
 
